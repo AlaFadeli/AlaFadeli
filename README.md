@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with any ML-related topics
 - 📫 How to reach me : 
     - via Linked In :
-    ![header]https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=About%20me)
+
+![header]https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=About%20me)
 
 
 
